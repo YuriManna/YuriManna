@@ -1,6 +1,6 @@
 Hey there! 👋 I'm Yuri
 
-🎓 Studying Data Science and Artificial Intelligence at Maastricht University, diving deep into the exciting world where data and intelligence converge.
+🎓 Graduated in Data Science and Artificial Intelligence at Maastricht University, diving deep into the exciting world where data and intelligence converge.
 
 🌟 My passion lies in harnessing the power of data and AI to unravel complex challenges and create meaningful solutions. I believe in the transformative potential of these technologies to reshape industries, drive innovation, and positively impact our world.
 What Am I Up To?
